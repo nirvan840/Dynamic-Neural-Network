@@ -10,4 +10,4 @@ Purely Python3-based user customizable (depth and width of neurons) Deep Neural 
 
 ---
 
-Dataset used present as .csv files
+Dataset used present in `Binary Classification-Cat.zip` file as 4 .csv files. 
